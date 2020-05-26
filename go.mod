@@ -1,4 +1,4 @@
-module github.com/filecoin-project/storage-fsm
+module github.com/litianc/storage-fsm
 
 go 1.13
 
