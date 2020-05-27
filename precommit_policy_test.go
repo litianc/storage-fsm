@@ -10,7 +10,7 @@ import (
 	commcid "github.com/filecoin-project/go-fil-commcid"
 	"github.com/filecoin-project/specs-actors/actors/abi"
 
-	sealing "github.com/filecoin-project/storage-fsm"
+	sealing "github.com/litianc/storage-fsm"
 )
 
 type fakeChain struct {
